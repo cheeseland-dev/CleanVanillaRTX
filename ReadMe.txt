@@ -9,5 +9,7 @@ This pack is a fork of RTX Vanilla Conversion by TheCivilHulk, so a ton of the w
 
 I also made all of the textures and RTX patches using TextureEdit, a free software programmed by u/warm_teeth on Reddit! If you'd like to download this and try it out yourself check out https://www.reddit.com/r/TextureEdit/ for information including two video tutorials created by yours truly! Feel free to leave any feedback, suggestions, or questions on the subreddit!
 
+NEW: this pack has been updated to the lastest RTX beta 1.16.30.57, enjoy.
+
 Enjoy,
 YERT20082
